@@ -5,9 +5,11 @@
 Hey There! My name is Baptiste<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I'm a programmer and a web dev</p>
 <p></p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p>Actually <!-- laglaglaglaglaglaglaglaglaglaglaglag --> I'm working on<a href="//muzykanty.fr"> _muzykanty</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+
 <p> You can follow me on <br> <a href="//instagram.com/baptiste.dftn">_instamgam</a> & <br> <a href="//github.com/baptistedftn">_github</a></p>
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
-
-<p>Cheers!</p>
+You can also contact me by email <!-- slightdelayhere-->, at<!-- longlonglongcomment --><script type="text/javascript">
+document.write(atob("PGEgaHJlZj0ibWFpbHRvOmJhcHRpc3RlZGVzZm9udGFpbmVzQHBtLm1lIj5iYXB0aXN0ZWRlc2ZvbnRhaW5lc0BwbS5tZTwvYT48aW1nIHNyYz0iLy91cGxvYWQud2lraW1lZGlhLm9yZy93aWtpcGVkaWEvY29tbW9ucy8yLzI4L1NlbWlfcHJvdGVjdC5zdmciIHdpZHRoPTE0IGhlaWdodD0xNCAvPg=="));
+</script>
+<span id="a">root@baptiste</span>:<span id="b">~</span><span id="c">$</span> exit
+<br>
