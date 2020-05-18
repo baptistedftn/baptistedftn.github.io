@@ -8,8 +8,9 @@ Hey There! My name is Baptiste<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I'
 
 <p> You can follow me on <br> <a href="//instagram.com/baptiste.dftn">_instamgam</a> & <br> <a href="//github.com/baptistedftn">_github</a></p>
 
-You can also contact me by email <!-- slightdelayhere-->, at<!-- longlonglongcomment --><script type="text/javascript">
-document.write(atob("PGEgaHJlZj0ibWFpbHRvOmJhcHRpc3RlZGVzZm9udGFpbmVzQHBtLm1lIj5iYXB0aXN0ZWRlc2ZvbnRhaW5lc0BwbS5tZTwvYT48aW1nIHNyYz0iLy91cGxvYWQud2lraW1lZGlhLm9yZy93aWtpcGVkaWEvY29tbW9ucy8yLzI4L1NlbWlfcHJvdGVjdC5zdmciIHdpZHRoPTE0IGhlaWdodD0xNCAvPg=="));
+You can also contact me by email <!-- slightdelayhere-->, at<!-- longlonglongcomment -->
+<script type="text/javascript">
+document.write(atob("PGEgaHJlZj0ibWFpbHRvOmJhcHRpc3RlZGVzZm9udGFpbmVzQHBtLm1lIj5iYXB0aXN0ZWRlc2ZvbnRhaW5lc0BwbS5tZTwvYT4gPGEgaHJlZj0iaHR0cDovL3d3dy5zdXBwb3J0ZHV3ZWIuY29tL3Byb3RlY3Rpb24tZW1haWwtYW50aXNwYW0tY2FjaGVyLWFkcmVzc2UtZW1haWwtc2l0ZS13ZWItY29kZS1zb3VyY2UtaHRtbC1qYXZhc2NyaXB0LWJhc2U2NC1jcnlwdGVyLWVtYWlsLWVuY29kZXIuaHRtbCIgdGl0bGU9IkFudGktU1BBTSBQcm90ZWN0aW9uIj48aW1nIHNyYz0iLy91cGxvYWQud2lraW1lZGlhLm9yZy93aWtpcGVkaWEvY29tbW9ucy8yLzI4L1NlbWlfcHJvdGVjdC5zdmciIHdpZHRoPTE0IGhlaWdodD0xNCAvPjwvYT4="));
 </script>
 <span id="a">root@baptiste</span>:<span id="b">~</span><span id="c">$</span> exit
 <br>
