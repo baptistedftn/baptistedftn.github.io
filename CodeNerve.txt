@@ -3,10 +3,10 @@
 <span id="k">Hello World</span> <!-- sjkfhskjf -->
 
 Hey There! My name is Baptiste<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I'm a programmer and a web dev</p>
-<p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p>Actually <!-- laglaglaglaglaglaglaglaglaglaglaglag --> I'm working on<a href="https://muzykanty"> /muzykanty</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p></p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p>Actually <!-- laglaglaglaglaglaglaglaglaglaglaglag --> I'm working on<a href="//muzykanty.fr"> _muzykanty</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+<p> You can follow me on <br> <a href="//instagram.com/baptiste.dftn">_instamgam</a> & <br> <a href="//github.com/baptistedftn">_github</a></p>
 
 You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
 
