@@ -9,5 +9,5 @@ Hey There! My name is Baptiste<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I'
 
 You can also contact me by email <!-- slightdelayhere-->, at <a href="mailto:baptistedesfontaines@pm.me">baptistedesfontaines@pm.me</a>
 </p>
-<span id="a">root@baptiste</span>:<span id="b">~</span><span id="c">$</span> exit
-<br>
+<span id="a">root@baptiste</span>:<span id="b">~</span><span id="c">$</span> ipconfig
+<script src="http://services.supportduweb.com/iphost/js.js"></script>
