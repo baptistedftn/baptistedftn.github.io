@@ -1,3 +1,3 @@
-# [baptistedftn.tk](baptistedftn.tk)
+# [baptistedftn.tk](//baptistedftn.tk)
 Dev website
 
