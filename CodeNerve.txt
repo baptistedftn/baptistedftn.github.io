@@ -1,7 +1,7 @@
 <span id="a">root@baptiste</span>:<span id="b">~</span><span id="c">$</span> cd /home/<!-- kjsdfhkjdhsfkjdshfkj -->baptiste
 <span id="a">root@baptiste</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->life.txt<br/><br/>
 
-Hey There! My name is Baptiste<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I'm a programmer and a web dev</p>
+Hey There! My name is Baptiste<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I'm a programmer, a web dev and maybe a hacker ;) </p>
 <p></p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p>Actually <!-- laglaglaglaglaglaglaglaglaglaglaglag --> I'm working on<a href="//muzykanty.fr"> _muzykanty</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 
