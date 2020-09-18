@@ -3,7 +3,7 @@
 
 Hey There! My name is Baptiste<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I'm a programmer, a web dev and maybe a hacker ;) </p>
 <p></p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p>Actually <!-- laglaglaglaglaglaglaglaglaglaglaglag --> I'm working on<a href="//muzykanty.fr"> _muzykanty</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<!-- laglaglaglaglaglaglaglaglaglaglaglag --><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 
 <p> You can follow me on <br> <a href="//instagram.com/baptiste.dftn">_instamgam</a> & <br> <a href="//github.com/baptistedftn">_github</a>
 
